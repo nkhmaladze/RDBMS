@@ -38,12 +38,7 @@ The 134 test cases use UnitTest++ and sit next to the code in each directory. Li
 
 ## History
 
-Each directory was imported from its original repository with its commits intact:
-[BufferManagerDB](https://github.com/nkhmaladze/BufferManagerDB),
-[HeapPage](https://github.com/nkhmaladze/HeapPage),
-[HeapFile](https://github.com/nkhmaladze/HeapFile),
-[RelopsManager](https://github.com/nkhmaladze/RelopsManager) and
-[RelopsManagerJoin](https://github.com/nkhmaladze/RelopsManagerJoin).
+Each layer started as its own repository. All five were imported here with their commits intact, so the full history of every layer is in this repository's log.
 
 ## Credits
 
